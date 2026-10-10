@@ -1,0 +1,7 @@
+{
+  "day": "18 / 20",
+  "title": "PDF ve Doküman Kaynak Arama",
+  "description": "PDF veya metni küçük parçalara ayır; soruyla eşleşen kaynakları açıkça göster.",
+  "mode": "Yerel retrieval · opsiyonel Gemini adaptörü",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
